@@ -73,4 +73,4 @@ Contributors
 Shreyas N - Project Lead
 B Tarun - Contributor
 
-Project Link: 
+Project Link: https://github.com/Tarun-Kalyan/Grocery_Web_Application.git
