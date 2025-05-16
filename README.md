@@ -38,7 +38,7 @@ Launch the application
 
 Open your browser and navigate to your server's URL
 📂 Project Structure
-Grocery-WebApp/
+Grocery_Web_Application/
 ├── assets/
 │   ├── css/
 │   ├── js/
